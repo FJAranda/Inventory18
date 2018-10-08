@@ -3,4 +3,5 @@
     <dimen name="ll_login_padding">32dp</dimen>
     <dimen name="stroke_width">2dp</dimen>
     <dimen name="ll_login_edittext">8dp</dimen>
+    <dimen name="ll_login_btnIniciar">40dp</dimen>
 </resources>
