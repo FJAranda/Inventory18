@@ -68,16 +68,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="Iniciar Sesion" />
 
     <Button
         android:id="@+id/btnIniciarFacebookLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:layout_marginBottom="@dimem/ll_login_btnIniciar"
+        android:layout_marginBottom="@dimen/ll_login_btnIniciar"
         android:drawableStart="@drawable/ic_facebook"
-        android:text="Button" />
+        android:text="Iniciar Sesion con Facebook" />
 
     <Button
         android:id="@+id/btnIniciarGoogleLogin"
@@ -85,6 +85,6 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:drawableStart="@drawable/ic_google"
-        android:text="Button" />
+        android:text="Iniciar Sesion con Google" />
 
 </LinearLayout>
